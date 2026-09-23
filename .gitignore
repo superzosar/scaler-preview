@@ -1,2 +1,4 @@
 build.mjs
 verify.mjs
+update.mjs
+verify_all.mjs
